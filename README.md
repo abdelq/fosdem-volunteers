@@ -19,8 +19,8 @@ command through sudo:
 pip install -r requirements.txt
 ```
 
-Next, copy volunteer_mgmt/localsettings_example.py to
-volunteer_mgmt/localsettings.py and edit to fit your needs. By default it's not
+Next, copy `volunteer_mgmt/local_example.py` to
+`volunteer_mgmt/local.py` and edit to fit your needs. By default it's not
 very secure, and uses a sqlite3 DB backend.
 
 If you need to test mail functionality (or don't want to get errors during

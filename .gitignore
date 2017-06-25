@@ -2,7 +2,7 @@ venv
 *.pyc
 mugshots
 *.sqlite
-volunteer_mgmt/localsettings.py
+volunteer_mgmt/local.py
 schedule*.xml
 *.sql
 .directory
